@@ -1,6 +1,4 @@
 # Version 1.0 - Initial code - Jacob Anderson
-# Version 1.1 - Added Python interpreter location for Linux - Adam Anderson
-#!/usr/bin/python3
 from random import randint
 t=('Rock', 'Paper', 'Scissors')
 computer=t[randint(0,2)]
